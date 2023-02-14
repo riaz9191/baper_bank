@@ -16,9 +16,9 @@ document.getElementById('btn-submit').addEventListener('click', function () {
     // console.log(email,password)
 
     //step 4:verify email password
-    if(email === 'sontan@baap.com' && password === 'secret'){
-        window.location.href = 'bank.html'
-    }else{
-        alert('Password vule gesos kn????')
-    }
+    // if(email === 'sontan@baap.com' && password === 'secret'){
+    //     window.location.href = '/'
+    // }else{
+    //     alert('Password vule gesos kn????')
+    // }
 })
